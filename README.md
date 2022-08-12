@@ -2,7 +2,6 @@
 
 A simpe quotes app built using simple html,css,js
 
-You can try it now [Qquotes App](http://tensionjit.gq/)
 
 # Preview
 
